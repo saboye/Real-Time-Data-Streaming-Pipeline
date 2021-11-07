@@ -8,8 +8,8 @@
 <h1 align="center">Kafka and Python</h1>
 
 <p align="center">
-  <a href="https://github.com/saboye/Real-Time-Streaming-Pipeline-using-Kafka-and-Python">
-    <img src="images/kafka.jpg" alt="Logo" width="800" height="350">
+   <a href="https://github.com/saboye/Real-Time-Streaming-Pipeline-using-Kafka-and-Python">
+    <img src="images/kafka.jpg" alt="Logo" width="950" height="550">
   </a>
 
 ### Overview 
@@ -17,7 +17,7 @@ A real-time streaming pipeline can stream live tweets from Twitter and ingest th
 
 Create a developer account [here](https://developer.twitter.com/)  to get the Twitter API key. Then change the Twitter API key configuration at the virtual environment level by the newly generated API key.
 
-```sh
+```python
     export CONSUMER_KEY="XXXXXXXXXXXXXXXXXXXXXXXXX"
     export CONSUMER_SECRET="XXXXXXXXXXXXXXXXXXXXXX"
     export ACCESS_KEY="XXXXXXXXXXXXXXXXXXXXXXXXXXX"
@@ -25,7 +25,7 @@ Create a developer account [here](https://developer.twitter.com/)  to get the Tw
 ```
 #### Install
 
-```sh
+```python
     git clone https://github.com/saboye/Real-Time-Streaming-Pipeline-using-Kafka-and-Python.
 
     pip install -r requirements.txt
@@ -33,22 +33,22 @@ Create a developer account [here](https://developer.twitter.com/)  to get the Tw
 ```
 #### Kafka configuration
 
-```sh
+```python
     advertised.listeners=PLAINTEXT://localhost:9092
     zookeeper.connect=localhost:2181 
 
 ````
 
-#### To run locally you need to installed the [Apache Kafka](https://kafka.apache.org/downloads) 
+#### To run locally you need to installed [Apache Kafka](https://kafka.apache.org/downloads) 
 #### 1. run the zookeeper the next command: 
-```sh
+```python
 
     bin/zookeeper-server-start.sh config/zookeeper.properties 
 
 ```
 
 #### 2. run the Kafka run the following command: 
-```sh
+```python
 
     JMX_PORT=8004 bin/kafka-server-start.sh config/server.properties
 
