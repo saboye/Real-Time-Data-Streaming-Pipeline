@@ -41,15 +41,16 @@ Create a developer account [here](https://developer.twitter.com/)  to get the Tw
 
 #### To run locally you need to installed [Apache Kafka](https://kafka.apache.org/downloads) 
 #### 1. run the zookeeper the next command: 
+
 ```python
 
     bin/zookeeper-server-start.sh config/zookeeper.properties 
 
 ```
 
-#### 2. run the Kafka run the following command: 
-```python
+#### 2. To run the Kafka use the following command: 
 
+```python
     JMX_PORT=8004 bin/kafka-server-start.sh config/server.properties
 
 ```
