@@ -8,7 +8,7 @@
 <h1 align="center">Kafka and Python</h1>
 
 <p align="center">
-   <a href="https://github.com/saboye/Real-Time-Streaming-Pipeline-using-Kafka-and-Python">
+   <a href="https://github.com/saboye/Real-Time-Data-Streaming-Pipeline">
     <img src="images/kafka.jpg" alt="Logo" width="950" height="550">
   </a>
 
@@ -26,7 +26,7 @@ Create a developer account [here](https://developer.twitter.com/)  to get the Tw
 #### Install
 
 ```python
-    git clone https://github.com/saboye/Real-Time-Streaming-Pipeline-using-Kafka-and-Python.
+    git clone https://github.com/saboye/Real-Time-Data-Streaming-Pipeline.
 
     pip install -r requirements.txt
  
@@ -71,7 +71,7 @@ Create a developer account [here](https://developer.twitter.com/)  to get the Tw
 
 #### 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/saboye/Real-Time-Streaming-Pipeline-using-Kafka-and-Python/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/saboye/Real-Time-Data-Streaming-Pipeline/issues).
 
 #### Show your support
 
@@ -80,20 +80,20 @@ Give a ⭐️ if this project helped you!
 #### 📝 License
 
 
-This project is [MIT](https://github.com/saboye/Real-Time-Streaming-Pipeline-using-Kafka-and-Python/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/saboye/Real-Time-Data-Streaming-Pipeline/blob/main/LICENSE) licensed.
 
 ***
 
-[contributors-shield]: https://img.shields.io/github/contributors/saboye/Real-Time-Streaming-Pipeline-using-Kafka-and-Python?style=for-the-badge
-[contributors-url]: https://github.com/saboye/Automated-File-Transfer-with-Bash/graphs/contributors
-[forks-shield]: https://img.shields.io/github/stars/saboye/Real-Time-Streaming-Pipeline-using-Kafka-and-Python?style=for-the-badge
-[forks-url]: https://github.com/saboye/Real-Time-Streaming-Pipeline-using-Kafka-and-Python/network/members
-[stars-shield]: https://img.shields.io/github/stars/saboye/Real-Time-Streaming-Pipeline-using-Kafka-and-Python?style=for-the-badge
-[stars-url]: https://github.com/saboye/Automated-File-Transfer-with-Bash/stargazers
-[issues-shield]: https://img.shields.io/github/issues/saboye/Real-Time-Streaming-Pipeline-using-Kafka-and-Python?style=for-the-badge
-[issues-url]: https://github.com/saboye/Real-Time-Streaming-Pipeline-using-Kafka-and-Python/issues
-[license-shield]: https://img.shields.io/github/license/saboye/Real-Time-Streaming-Pipeline-using-Kafka-and-Python?style=for-the-badge
-[license-url]: https://github.com/saboye/Real-Time-Streaming-Pipeline-using-Kafka-and-Python/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/saboye/Real-Time-Data-Streaming-Pipeline?style=for-the-badge
+[contributors-url]: https://github.com/saboye/Real-Time-Data-Streaming-Pipeline/graphs/contributors
+[forks-shield]: https://img.shields.io/github/stars/saboye/Real-Time-Data-Streaming-Pipeline?style=for-the-badge
+[forks-url]: https://github.com/saboye/Real-Time-Data-Streaming-Pipeline/network/members
+[stars-shield]: https://img.shields.io/github/stars/saboye/Real-Time-Data-Streaming-Pipeline?style=for-the-badge
+[stars-url]: https://github.com/saboye/Real-Time-Data-Streaming-Pipeline/stargazers
+[issues-shield]: https://img.shields.io/github/issues/saboye/Real-Time-Data-Streaming-Pipeline?style=for-the-badge
+[issues-url]: https://github.com/saboye/Real-Time-Data-Streaming-Pipeline/issues
+[license-shield]: https://img.shields.io/github/license/saboye/Real-Time-Data-Streaming-Pipeline?style=for-the-badge
+[license-url]: https://github.com/saboye/Real-Time-Data-Streaming-Pipeline/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/samuelaboye
 
