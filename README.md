@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-<h1 align="center">Real-Time  Streaming Pipeline using </h1>
+<h1 align="center">Real-Time Data Streaming Pipeline using </h1>
 <h1 align="center">Kafka and Python</h1>
 
 <p align="center">
